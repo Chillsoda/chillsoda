@@ -8,6 +8,6 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Chillsoda/ticket-lifecycle)
 - <b>Microsoft Azure Virtual Machine setup </b>
   - [Creating a virtual machine on Microsoft Azure](https://github.com/Chillsoda/creating-a-virtual-machine)
-  - [Observing ICMP protocol between VMs](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Observing ICMP protocol between VMs](https://github.com/Chillsoda/observing-icmp-traffic)
 
 - <b> Virtual Private Network Setup</b> 

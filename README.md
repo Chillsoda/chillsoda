@@ -11,4 +11,5 @@
   - [Observing ICMP protocol between VMs](https://github.com/Chillsoda/observing-icmp-traffic)
 
 - <b> Virtual Private Network Setup</b> 
-  -[Setting up a VPN on Virtual Machine in Azure]( https://github.com/Chillsoda/setting-up-a-VPN) 
+
+  - [Setting up a VPN on Virtual Machine in Azure]( https://github.com/Chillsoda/setting-up-a-VPN) 
